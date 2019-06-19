@@ -1,0 +1,26 @@
+body{background: #5f9f9f }
+table, tr, th, td {
+border:1px
+solid #f0f000;
+background-color:green;
+border-collapse:collapse;
+padding:20px;} /*caracteristicas de la tablas tamaño, color, tamaño de letra. */
+h1 {
+color:beige;
+} color del titulo 
+strong {
+color: red;
+}/*color de los campos que direccionan a las paguinas web */ 
+span{ color: orange; }
+h2 { color: orange; }
+span { color: purple; }
+a { color: red; }
+a em { color: blue; }
+div p { color: olive; }
+div span{ color: fuchsia; }
+div a { color: green; }
+td { color: black; }
+td { color: orange; }
+th { color: red; }
+th { color: orange; }
+aside{border-left: 20px}
